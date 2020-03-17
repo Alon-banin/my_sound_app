@@ -9,6 +9,7 @@ class HomeView extends StatelessWidget{
     Sound("bla", "0.01","zzz"),
     Sound("nooo yak", "0.01","qqq"),
     Sound("mishh", "0.01","rrr"),
+    Sound("motz", "0.03","bla"),
   ];
   @override
   Widget build(BuildContext context) {
